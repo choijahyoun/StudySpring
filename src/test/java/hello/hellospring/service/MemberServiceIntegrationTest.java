@@ -61,7 +61,4 @@ class MemberServiceIntegrationTest {
 
     }
 
-    @Test
-    void 특정회원불러오기() {
-    }
 }
